@@ -47,8 +47,34 @@ section {
     justify-content: space-between;
 }
 
-.selector-box {
+.selector-box1 {
     width: 200px;
     height: 200px;
-    border: 1px solid #ccc;
+    background-color: 1px solid #975757;
+    border: 1px solid black;
+}
+.selector-box2 {
+    width: 200px;
+    height: 200px;
+    background-color:  #180909;
+    border: 1px solid black;
+}
+.selector-box3 {
+    width: 200px;
+    height: 200px;
+    background-color:  #14918c;
+    border: 1px solid black;
+}
+.selector-box4 {
+    width: 200px;
+    height: 200px;
+    background-color:  #0b0202;
+    border: 1px solid black;
+}
+
+.selector-box5 {
+    width: 200px;
+    height: 200px;
+    background-color:  #c9d517;
+     border: 1px solid black;
 }
