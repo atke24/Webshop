@@ -1,4 +1,4 @@
-import auth from "./models/auth.js";
+import auth from "../models/auth.js";
 
 async function renderProducts() {
   const response = await fetch(`${auth.api_url}/products?api_key=${auth.api_key}`);
