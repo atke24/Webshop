@@ -1,0 +1,14 @@
+:root {
+    --text-color: #333;
+    --background-color: #fff;
+    --yellow: #f5af2b;
+    --beige: #b5914e;
+    --light-blue: #2c83f5;
+    --blue: #5274a1;
+    --navy: #21334a;
+    --brown: #756649;
+    --header-font: sans-serif;
+    --text-font: serif;
+    --default-font-size: 1.25em;
+    --default-margin-bottom: 1.75rem;
+}
